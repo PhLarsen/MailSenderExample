@@ -1,0 +1,15 @@
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\MainWindow.g.cs
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\App.g.cs
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.cache
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender_MarkupCompile.lref
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\MainWindow.baml
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.g.resources
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.Cache
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+c:\users\philip\documents\visual studio 2017\Projects\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
